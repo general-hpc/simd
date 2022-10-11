@@ -51,6 +51,11 @@
 
 - [proposal: add package for using SIMD instructions](https://github.com/golang/go/issues/53171)
 
+### cpuid
+
+- [aregm/cpuid](https://github.com/aregm/cpuid)
+- [klauspost/cpuid](https://github.com/klauspost/cpuid)
+
 ### asm
 
 - [minio](https://github.com/minio)
