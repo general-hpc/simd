@@ -4,6 +4,8 @@
   - i8x16
     - for
     - simd
+      - math lib c implementation
+      - math lib go wrapper
     - llvm
   - i16x8
   - i32x4
