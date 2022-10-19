@@ -61,6 +61,11 @@
 - [minio](https://github.com/minio)
 - [klauspost](https://github.com/klauspost)
 
+### cgo
+
+- [I beat TiDB with 20 LOC](https://internals.tidb.io/t/topic/174)
+- [Copy & Paste 三行代码让 TiDB 性能翻倍](https://blog.zhuangty.com/tidb-2-times-faster/)
+
 ### llvm
 
 - [go/gollvm](https://go.googlesource.com/gollvm/)
