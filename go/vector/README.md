@@ -1,3 +1,10 @@
+## overview
+
+|      | lazy                            | eager          |
+|------|---------------------------------|----------------|
+| gcc  | library (slow / can't pass ast) | library (slow) |
+| llvm | library                         | library (slow) |
+
 ## code structure
 
 - simd128
